@@ -1,0 +1,11 @@
+EmployeeID,Name,Salary,Experience,Department
+101,Amit,50000,2,IT
+102,Priya,65000,6,HR
+103,Rahul,,4,Finance
+104,Neha,80000,8,IT
+105,Vikas,55000,,Sales
+106,Anjali,72000,7,Marketing
+107,Rohit,,3,IT
+108,Sneha,90000,10,Finance
+109,Karan,60000,,HR
+110,Pooja,75000,5,Sales
